@@ -2,7 +2,7 @@
 
 This contract facilitates a typical transaction betweeen an airline company and a regular customer.
 
-I learned how to build this from [Matt] (https://github.com/smallbatch-apps/fairline-contract/blob/master/contracts/Flight.sol).
+I learned how to build this from [Matt](https://github.com/smallbatch-apps/fairline-contract/blob/master/contracts/Flight.sol).
 
 ## Hire me for freelance technical writing jobs!
 
